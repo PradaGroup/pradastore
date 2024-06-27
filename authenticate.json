@@ -9,7 +9,10 @@
             "token": "bbbb-bbbb"   
         }
     ],
-    "rodas": [
-
+    "painel_facs": [
+        {
+            "ip": "201.46.20.176",
+            "token": "teste-irherm"   
+        }
     ]
 }
